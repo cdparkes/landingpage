@@ -144,3 +144,46 @@ a {
     font-weight: bold;
     font: #1F2937;
 }
+
+.fourthSection {
+    margin: 100px 50px;
+    display: flex;
+    background-color: #3882f6;
+    padding: 60px 50px;
+    border-radius: 7px;
+    justify-content: space-between;
+    color: #f9faf8;
+}
+
+.fourthSectionLeft {
+    display: flex;
+    flex-direction: column;
+    padding-left: ;
+}
+
+.fourthSectionHeader {
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 5px;
+}
+
+.fourthSectionButton {
+    min-width: 100px;
+    color: #f9faf8;
+    font-weight: 700;
+    background-color: #3882f6;
+    padding: 7px;
+    margin: 7px;
+    border-radius: 5px;
+    border: 2px solid;
+    border-color: #f9faf8;
+    margin-right: 75px;
+}
+
+.footer {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    color: #f9faf8;
+    padding: 50px 0;
+}
