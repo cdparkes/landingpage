@@ -96,7 +96,7 @@ a {
    align-items: center;
    min-height: 400px;
    height: auto;
-   justify-content: center;
+   justify-content: space-around;
    padding: 0 100px;
    gap: 50px;
 }
